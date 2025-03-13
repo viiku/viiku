@@ -3,6 +3,11 @@
 ## About Me
 I'm a passionate developer focused on high-performance computing and distributed systems.
 
+### 📊 Profile Stats
+![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/viiku?style=social)](https://github.com/viiku)
+[![GitHub stars](https://img.shields.io/github/stars/viiku?style=social)](https://github.com/viiku)
+
 ### 🔭 Currently Working On
 - Low Latency Computing Systems
 - High Performance Computing (HPC) Solutions
@@ -32,8 +37,14 @@ I'm a passionate developer focused on high-performance computing and distributed
 
 ### 📈 GitHub Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viiku&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viiku&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viiku&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viiku&show_icons=true&theme=radical)
+### 📌 Quick Stats
+![Last Commit](https://img.shields.io/github/last-commit/viiku/viiku?style=flat-square)
+![Repository Size](https://img.shields.io/github/repo-size/viiku/viiku?style=flat-square)
+![Code Size](https://img.shields.io/github/languages/code-size/viiku/viiku?style=flat-square)
+![Watchers](https://img.shields.io/github/watchers/viiku/viiku?style=social)
 
 ### 🎯 Goals for 2024
 - Optimize system performance in distributed environments
