@@ -32,8 +32,8 @@ I'm a passionate developer focused on high-performance computing and distributed
 
 ### 📈 GitHub Activity
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viiku&layout=compact&theme=radical)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viiku&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viiku&theme=radical)
 
 ### 🎯 Goals for 2024
 - Optimize system performance in distributed environments
