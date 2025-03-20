@@ -1,7 +1,7 @@
 # Hi Everyone! 👋
 
 ## About Me
-I'm a passionate developer focused on high-performance computing and distributed systems.
+I'm a passionate developer focused on distributed systems, microservices, low-latency programming and tools, high-performance computing.
 
 ### 📊 Profile Stats
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen) -->
