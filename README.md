@@ -46,6 +46,7 @@ I'm a passionate developer focused on distributed systems, microservices, low-la
 
 
 ### 🎯 Goals for 2024
+- Distributed Graph processing 
 - Optimize system performance in distributed environments
 - Contribute to high-performance computing projects
 - Research and implement low latency solutions
