@@ -1,7 +1,7 @@
 # Hi Everyone! 👋
 
 ## About Me
-I'm a passionate developer focused on distributed systems, microservices, low-latency programming and tools, high-performance computing.
+I'm a passionate developer focused on microservices, distributed systems, low latency programming and tools, high-performance computing.
 
 ### 📊 Profile Stats
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen) -->
@@ -45,8 +45,10 @@ I'm a passionate developer focused on distributed systems, microservices, low-la
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viiku&theme=radical)
 
 
-### 🎯 Goals for 2024
-- Distributed Graph processing 
+### 🎯 Goals for 2025
+- Learn FPGA
+- Learn Tree and Graph Theory
+- Learn Distributed Graph Processing
 - Optimize system performance in distributed environments
 - Contribute to high-performance computing projects
 - Research and implement low latency solutions
