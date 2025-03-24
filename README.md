@@ -1,7 +1,7 @@
 # Hi Everyone! 👋
 
 ## About Me
-I'm a passionate developer focused on microservices, distributed systems, low latency programming and tools, high-performance computing.
+I'm a passionate developer focused on microservices, distributed systems, low latency programming and tools.
 
 ### 📊 Profile Stats
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen) -->
@@ -50,7 +50,7 @@ I'm a passionate developer focused on microservices, distributed systems, low la
 - Learn Tree and Graph Theory
 - Learn Distributed Graph Processing
 - Optimize system performance in distributed environments
-- Contribute to high-performance computing projects
+- Learn high-performance computing
 - Research and implement low latency solutions
 - Share knowledge about system architecture and performance
 
