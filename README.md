@@ -46,10 +46,11 @@ I'm a passionate developer focused on microservices, distributed systems, low la
 
 
 ### 🎯 Goals for 2025
-- Learn FPGA
 - Learn Tree and Graph Theory
+- Learn Distributed System and Implementation
 - Learn Distributed Graph Processing
 - Optimize system performance in distributed environments
+- Learn FPGA
 - Learn high-performance computing
 - Research and implement low latency solutions
 - Share knowledge about system architecture and performance
