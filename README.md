@@ -13,11 +13,11 @@ I'm a passionate developer focused on microservices, distributed systems, low la
 [![GitHub stars](https://img.shields.io/github/stars/viiku?style=social)](https://github.com/viiku)
 
 ### 🔭 Currently Working On
-- Low Latency Computing Systems
-- High Performance Computing (HPC) Solutions
-- Distributed Systems Architecture
 - Event-Driven Systems
-- Performance Optimization
+- Distributed Systems Architecture
+<!-- - Low Latency Computing Systems
+- High Performance Computing (HPC) Solutions
+- Performance Optimization -->
 
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
