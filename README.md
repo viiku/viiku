@@ -1,7 +1,7 @@
 # Hi Everyone! 👋
 
 ## About Me
-I'm a passionate developer focused on microservices, distributed systems, low latency programming and tools.
+I'm a passionate software developer focused on microservices, distributed systems, low latency programming and tools.
 
 ### 📊 Profile Stats
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen) -->
