@@ -4,7 +4,6 @@
 I'm a passionate software developer focused on microservices, distributed systems, low latency programming and tools.
 
 ### 📊 Profile Stats
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=viiku&color=brightgreen) -->
 ![Last Commit](https://img.shields.io/github/last-commit/viiku/viiku?style=flat-square)
 ![Repository Size](https://img.shields.io/github/repo-size/viiku/viiku?style=flat-square)
 ![Code Size](https://img.shields.io/github/languages/code-size/viiku/viiku?style=flat-square)
