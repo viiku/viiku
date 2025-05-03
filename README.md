@@ -15,9 +15,11 @@ I'm a passionate software developer focused on microservices, distributed system
 - Microservices
 - Event-Driven Systems
 - Distributed Systems
-<!-- - Low Latency Computing Systems
-- High Performance Computing (HPC) Solutions
-- Performance Optimization -->
+
+#### 🛠️ Featured Projects
+- [visualizer](https://github.com/viiku/visualizer): Data visualization tools and utilities.
+- [distributed-systems](https://github.com/viiku/distributed-systems): Documents, experiments and implementations in distributed systems.
+- [blogapp](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture.
 
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
