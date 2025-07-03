@@ -63,10 +63,10 @@ I'm a passionate software developer focused on microservices, distributed system
 - Learn Tree and Graph Theory
 - Learn Distributed System and Implementation
 - Learn Distributed Graph Processing
-- Optimize system performance in distributed environments
-- Learn FPGA
+- Learn to Optimize system performance in distributed environments
+<!-- - Learn FPGA -->
 - Learn high-performance computing
-- Research and implement low latency solutions
+<!-- - Research and implement low latency solutions -->
 - Share knowledge about system architecture and performance
 - [distributed-systems](https://github.com/viiku/distributed-systems): Documents, experiments and implementations in distributed systems.
 
