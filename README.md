@@ -17,8 +17,10 @@ I'm a passionate software developer focused on microservices, distributed system
 - Distributed Systems
 
 #### 🛠️ Case Study Projects
-- [visualizer](https://github.com/viiku/visualizer): Data visualization tools and utilities.
+- [datavisualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities.
 - [blogapp](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture.
+- [vulnerabilityscanner] (https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulbnerabilities in NPM packages, maven packages etc... Currently it works only for NPM Packages.
+- [distributed-document-search] 
 
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
