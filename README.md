@@ -17,10 +17,10 @@ I'm a passionate software developer focused on microservices, distributed system
 - Distributed Systems
 
 #### 🛠️ Case Study Projects
-- [data-visualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities.
-- [blog-app](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture.
-- [vulnerability-scanner](https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulbnerabilities in NPM packages, maven packages etc... Currently it works only for NPM Packages.
-
+- [fraud-detection] (https://github.com/viiku/fraud-detection): Real time fraud detection system, with high TPS.
+- [vulnerability-scanner](https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulbnerabilities in npm, maven and pypi packages etc... Currently it works only for NPM Packages.
+- [data-visualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities 
+- [blog-app](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture (Parked for now).
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
 - Cloud-Native Architecture
