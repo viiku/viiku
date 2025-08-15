@@ -17,10 +17,11 @@ I'm a passionate software developer focused on microservices, distributed system
 - Distributed Systems
 
 #### 🛠️ Case Study Projects
-- [fraud-detection] (https://github.com/viiku/fraud-detection): Real time fraud detection system, with high TPS.
-- [vulnerability-scanner](https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulbnerabilities in npm, maven and pypi packages etc... Currently it works only for NPM Packages.
-- [data-visualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities 
+- [fraud-detection](https://github.com/viiku/fraud-detection): Real time fraud detection system, with high TPS.
+- [vulnerability-scanner](https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulnerabilities in npm, maven and pypi packages etc... Currently it works only for NPM Packages.
+- [data-visualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities
 - [blog-app](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture (Parked for now).
+
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
 - Cloud-Native Architecture
@@ -57,16 +58,14 @@ I'm a passionate software developer focused on microservices, distributed system
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viiku&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viiku&theme=radical)
 
-
 ### 🎯 Goals for 2025
 - Learn Tree and Graph Theory
 - Learn Distributed System and Implementation
 - Learn Distributed Graph Processing
 - Learn to Optimize system performance in distributed environments
-<!-- - Learn FPGA -->
 - Learn high-performance computing
-<!-- - Research and implement low latency solutions -->
 - Share knowledge about system architecture and performance
+
 - [distributed-systems](https://github.com/viiku/distributed-systems): Documents, experiments and implementations in distributed systems.
 
 ---
