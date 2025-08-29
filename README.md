@@ -1,7 +1,11 @@
 # Hi Everyone! 👋
 
 ## About Me
-I'm a passionate software developer focused on microservices, distributed systems, low latency programming and tools.
+I’m a software developer with a strong focus on microservices, distributed systems, and low-latency programming. Currently, I work in the banking domain, where I build scalable backend systems using Java, Spring Boot, and microservices architectures.
+
+My experience spans across cloud platforms like AWS and Microsoft Azure, as well as DevOps and DevSecOps practices for building secure, reliable, and automated delivery pipelines.
+
+I’m particularly interested in event driven architecture, distributed systems, messaging technologies, and performance optimization in backend engineering.
 
 ### 📊 Profile Stats
 ![Last Commit](https://img.shields.io/github/last-commit/viiku/viiku?style=flat-square)
