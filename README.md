@@ -18,16 +18,15 @@ I'm a passionate software developer focused on microservices, distributed system
 
 #### 🛠️ Case Study Projects
 - [fraud-detection](https://github.com/viiku/fraud-detection): Real time fraud detection system, with high TPS.
-- [vulnerability-scanner](https://github.com/viiku/vulnerabilityscanner): A vulnerability scanner tool, helps us to quickly find vulnerabilities in npm, maven and pypi packages etc... Currently it works only for NPM Packages.
+- [vulnerability-scanner](https://github.com/viiku/vulnerability-scanner): A vulnerability scanner tool, helps us to quickly find vulnerabilities in npm, maven and pypi packages etc... Currently it works only for NPM Packages.
 - [data-visualizer](https://github.com/viiku/datavisualizer): Data visualization tools and utilities
 - [blog-app](https://github.com/viiku/blogapp): A modern blogging platform built with scalable architecture (Parked for now).
-
 ### 🌱 Learning & Growing
 - Advanced System Design Patterns
 - Cloud-Native Architecture
-- Parallel Computing
-- Real-time Data Processing
-- Performance Tuning
+<!-- - Parallel Computing -->
+<!-- - Real-time Data Processing -->
+<!-- - Performance Tuning -->
 
 ### 💻 Tech Stack
 #### Backend & Systems
@@ -42,6 +41,8 @@ I'm a passionate software developer focused on microservices, distributed system
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![OCI](https://img.shields.io/badge/Oracle%20Cloud-000000?style=flat-square&logo=oracle&logoColor=white)
 
 ### 🧪 API Test Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -58,13 +59,17 @@ I'm a passionate software developer focused on microservices, distributed system
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=viiku&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viiku&theme=radical)
 
+<!-- ### 🧩 LeetCode Stats
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-viiku-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/viiku)
+![LeetCode Stats](https://leetcode-stats.vercel.app/?username=viiku&theme=dark) -->
+
+
 ### 🎯 Goals for 2025
-- Learn Tree and Graph Theory
-- Learn Distributed System and Implementation
-- Learn Distributed Graph Processing
-- Learn to Optimize system performance in distributed environments
-- Learn high-performance computing
-- Share knowledge about system architecture and performance
+<!-- - Learn Tree and Graph Theory -->
+- Learn Distributed System and Implementation, optimize system performance in distributed environments
+<!-- - Learn Distributed Graph Processing -->
+<!-- - Learn high-performance computing -->
+<!-- - Share knowledge about system architecture and performance -->
 
 - [distributed-systems](https://github.com/viiku/distributed-systems): Documents, experiments and implementations in distributed systems.
 
