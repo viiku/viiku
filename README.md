@@ -45,6 +45,8 @@ I’m particularly interested in event driven architecture, distributed systems,
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+### Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud-000000?style=flat-square&logo=oracle&logoColor=white)
 
