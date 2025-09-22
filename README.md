@@ -50,7 +50,7 @@ I’m particularly interested in event driven architecture, distributed systems,
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![OCI](https://img.shields.io/badge/Oracle%20Cloud-000000?style=flat-square&logo=oracle&logoColor=white)
 
-#### 🧪 API Test Tools
+#### API Test Tools
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
