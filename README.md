@@ -80,4 +80,4 @@ I’m particularly interested in event driven architecture, distributed systems,
 - [distributed-systems](https://github.com/viiku/distributed-systems): Documents, experiments and implementations in distributed systems.
 
 ---
-⭐️ From [viiku](https://github.com/viiku)
+My notes:- https://vivek-writes.pages.dev/
